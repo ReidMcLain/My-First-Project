@@ -12,3 +12,9 @@ function randomIntFromInterval(min, max) { // min and max included
 
 const rndInt = randomIntFromInterval(1, 6)
 console.log(rndInt)
+
+function reidSmile()
+{
+var smile =":)"
+document.getElementbyId("message1").innerHTML = smile;
+}
