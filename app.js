@@ -16,5 +16,5 @@ console.log(rndInt)
 function reidSmile()
 {
 var smile =":)"
-document.getElementbyId("message1").innerHTML = smile;
+document.getElementById("message1").innerHTML = smile;
 }
