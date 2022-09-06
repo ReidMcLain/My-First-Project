@@ -8,7 +8,7 @@ function GetValue()
 
 function reidSmile()
 {
-var smile =":)"
+var smile ="( ͡° ͜ʖ ͡°)"
 document.getElementById("message1").innerHTML = smile;
 };
 
