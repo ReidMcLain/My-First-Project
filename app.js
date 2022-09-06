@@ -29,3 +29,7 @@ function get_random_color() {
     }
     return color;
 }
+
+function setBGColor() {
+document.body.style.backgroundColor = get_random_color();
+};
