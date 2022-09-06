@@ -18,7 +18,7 @@ function randomIntFromInterval(min, max) { // min and max included
 
 function guessYourWeight()
 {
-const rndInt = randomIntFromInterval(100, 300)
+const rndInt = randomIntFromInterval(120, 220)
 document.getElementById("message2").innerHTML = rndInt;
 };
 
